@@ -1,0 +1,11 @@
+STUDYFLOW SIMPLE — VERSION 7 ACTIVITES
+
+1. Extraire ce ZIP dans un NOUVEAU dossier.
+2. Android Studio > File > Open > StudyFlow_Simple (settings.gradle).
+3. Attendre Sync, choisir app et un emulateur, puis Run.
+4. Compte de demonstration : demo@studyflow.test / 123456.
+5. To-do list > Ajouter ouvre AddTaskActivity.
+6. Focus > Choisir une duree ouvre DurationActivity.
+7. Lire EXPLICATION_CODE_FR.md pour les trois echanges startActivityForResult.
+
+Compilation et Lint reussis ; essais sur appareil/emulateur a effectuer.

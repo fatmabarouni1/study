@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_add_task.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_duration.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_duration.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/drawable_button.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/drawable/button.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_todo.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_todo.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_focus.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_focus.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_summary.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_summary.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/drawable_input.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/drawable/input.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/layout_activity_login.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "tn.fatma.studyflowsimple.app-debug-4:/drawable_card.xml.flat",
+        "source": "tn.fatma.studyflowsimple.app-main-6:/drawable/card.xml"
+    }
+]

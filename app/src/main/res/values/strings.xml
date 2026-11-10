@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="app_name">StudyFlow Simple</string>
+
+    <string
+        name="login_title">Bienvenue !</string>
+
+    <string
+        name="login_intro">Organise tes tâches et prends un moment pour te concentrer.</string>
+
+    <string
+        name="email">Adresse e-mail</string>
+
+    <string
+        name="password">Mot de passe</string>
+
+    <string
+        name="login">Se connecter</string>
+
+    <string
+        name="demo">Compte de démonstration\ndemo@studyflow.test\nMot de passe : 123456</string>
+
+    <string
+        name="login_error">Utilise les identifiants de démonstration affichés.</string>
+
+    <string
+        name="welcome">Connectée avec %1$s</string>
+
+    <string
+        name="home_title">Mon espace</string>
+
+    <string
+        name="home_intro">Choisis simplement ce que tu veux faire.</string>
+
+    <string
+        name="todo">Ma to-do list</string>
+
+    <string
+        name="todo_intro">Une étape à la fois. Ajoute tes idées, puis coche tes tâches terminées.</string>
+
+    <string
+        name="focus">Focus Time</string>
+
+    <string
+        name="focus_intro">Choisis une durée de 1 à 180 minutes.</string>
+
+    <string
+        name="logout">Se déconnecter</string>
+
+    <string
+        name="task_hint">Une tâche à accomplir…</string>
+
+    <string
+        name="add">Ajouter</string>
+
+    <string
+        name="back">Retour à l’accueil</string>
+
+    <string
+        name="task_help">Touche une tâche pour la cocher.\nUn appui long permet de la supprimer.</string>
+
+    <string
+        name="empty">Ta liste est vide. Ajoute ta première tâche !</string>
+
+    <string
+        name="task_error">Écris une tâche.</string>
+
+    <string
+        name="task_duplicate">Cette tâche existe déjà.</string>
+
+    <string
+        name="task_count">Total : %1$d · Terminées : %2$d</string>
+
+    <string
+        name="delete_title">Supprimer cette tâche ?</string>
+
+    <string
+        name="delete">Supprimer</string>
+
+    <string
+        name="cancel">Annuler</string>
+
+    <string
+        name="minutes">Durée en minutes</string>
+
+    <string
+        name="default_minutes">25</string>
+
+    <string
+        name="start">Démarrer</string>
+
+    <string
+        name="pause">Pause</string>
+
+    <string
+        name="resume">Reprendre</string>
+
+    <string
+        name="reset">Réinitialiser</string>
+
+    <string
+        name="duration_error">Choisis une durée de 1 à 180 minutes.</string>
+
+    <string
+        name="timer_ready">Prête à commencer</string>
+
+    <string
+        name="timer_running">Concentration en cours</string>
+
+    <string
+        name="timer_paused">Séance en pause</string>
+
+    <string
+        name="timer_done">Bravo, séance terminée !</string>
+
+    <string
+        name="timer_note">Tu peux mettre en pause et reprendre.\nRetour ferme cette séance.</string>
+
+    <string
+        name="login_note">Connexion de démonstration pour le TP.</string>
+
+    <string
+        name="summary">Mon bilan</string>
+
+    <string
+        name="summary_intro">Retrouve tes séances de concentration terminées et tes tâches accomplies.</string>
+
+    <string
+        name="summary_sessions">Séances terminées : %1$d</string>
+
+    <string
+        name="summary_minutes">Temps de concentration : %1$d min</string>
+
+    <string
+        name="summary_last">Dernière séance : %1$d min</string>
+
+    <string
+        name="summary_tasks">Tâches cochées actuellement : %1$d</string>
+
+    <string
+        name="summary_empty">Aucune séance terminée. Commence par un Focus Time !</string>
+
+    <string
+        name="summary_note">Seules les séances arrivées à leur fin sont comptabilisées.</string>
+
+    <string
+        name="summary_back">Retour</string>
+
+    <string
+        name="no_focus_result">Le résultat de ta séance Focus apparaîtra ici.</string>
+
+    <string
+        name="focus_result">Résultat reçu : %1$d minutes de concentration terminées.</string>
+
+    <string
+        name="focus_canceled">Séance fermée avant la fin : aucun résultat validé.</string>
+
+    <string
+        name="add_task_title">Ajouter une tâche</string>
+
+    <string
+        name="add_task_intro">Écris une tâche puis valide pour la renvoyer à ta liste.</string>
+
+    <string
+        name="validate">Valider</string>
+
+    <string
+        name="choose_duration">Choisir une durée</string>
+
+    <string
+        name="duration_intro">Choisis une durée. Valider la renvoie au minuteur sans le démarrer.</string>
+
+    <string
+        name="duration_15">15 minutes</string>
+
+    <string
+        name="duration_25">25 minutes</string>
+
+    <string
+        name="duration_50">50 minutes</string>
+</resources>

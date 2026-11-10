@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color
+        name="purple">#6654C7</color>
+
+    <color
+        name="background">#F7F5FC</color>
+
+    <color
+        name="ink">#2A2540</color>
+
+    <color
+        name="muted">#716B83</color>
+</resources>

@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="tn.fatma.studyflowsimple"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:4:5-44:19
+12        android:allowBackup="false"
+12-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:5:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="@string/app_name"
+15-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:6:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:8:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:7:9-40
+19        <activity
+19-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:9:9-19:20
+20            android:name="tn.fatma.studyflowsimple.LoginActivity"
+20-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:10:13-42
+21            android:exported="true" >
+21-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:11:13-36
+22            <intent-filter>
+22-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:12:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:13:17-14:65
+23-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:14:21-62
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:16:17-17:71
+25-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:17:21-68
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="tn.fatma.studyflowsimple.MainActivity"
+29-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:22:13-41
+30            android:exported="false" />
+30-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:25:9-27:40
+32            android:name="tn.fatma.studyflowsimple.TodoActivity"
+32-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:26:13-41
+33            android:exported="false" />
+33-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:27:13-37
+34        <activity
+34-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:29:9-31:40
+35            android:name="tn.fatma.studyflowsimple.FocusActivity"
+35-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:30:13-42
+36            android:exported="false" />
+36-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:31:13-37
+37        <activity
+37-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:33:9-35:40
+38            android:name="tn.fatma.studyflowsimple.SummaryActivity"
+38-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:34:13-44
+39            android:exported="false" />
+39-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:35:13-37
+40        <activity
+40-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:37:9-39:40
+41            android:name="tn.fatma.studyflowsimple.AddTaskActivity"
+41-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:38:13-44
+42            android:exported="false" />
+42-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:39:13-37
+43        <activity
+43-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:41:9-43:40
+44            android:name="tn.fatma.studyflowsimple.DurationActivity"
+44-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:42:13-45
+45            android:exported="false" />
+45-->C:\Users\fatma\Downloads\study\StudyFlow_Simple\app\src\main\AndroidManifest.xml:43:13-37
+46    </application>
+47
+48</manifest>

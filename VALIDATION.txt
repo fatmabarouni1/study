@@ -1,0 +1,20 @@
+STUDYFLOW SIMPLE — 7 ACTIVITES / RESULTATS
+
+7 classes Java, 7 interfaces XML et 7 declarations Activity verifiees.
+Trois contrats de resultat controles dans les sources :
+- MainActivity > FocusActivity : completedMinutes (demande 1).
+- TodoActivity > AddTaskActivity : taskTitle (demande 2).
+- FocusActivity > DurationActivity : selectedMinutes (demande 3).
+Les Activity appelantes utilisent startActivityForResult et onActivityResult.
+Les pages appelees utilisent RESULT_OK, RESULT_CANCELED, setResult et finish.
+Les cles de resultat sont identiques a envoi et reception.
+
+:app:assembleDebug — BUILD SUCCESSFUL.
+:app:lintDebug — BUILD SUCCESSFUL, 0 erreur bloquante.
+Les XML sources sont valides et indentes, avec un attribut par ligne.
+Le projet utilise des composants Android natifs, sans bibliotheque externe d'interface.
+Le minuteur utilise encore CountDownTimer ; les services feront objet d'une etape ulterieure.
+
+Execution et tests de navigation sur emulateur : NON EFFECTUES.
+Scenarios de validation, annulation et rotation dans README_FR.md.
+APK de demonstration signe inclus ; sources disponibles pour Run dans Android Studio.
